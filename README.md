@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, vue, flutter, nodejs, laravel, nextjs, nuxtjs**
 
-- 📫 How to reach me **sowad1035@gmail.com**
+- 📫 How to reach me **sowad.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
